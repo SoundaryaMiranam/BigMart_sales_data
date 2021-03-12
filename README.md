@@ -1,5 +1,5 @@
 # BigMart_sales_data
-# Indroduction:
+# Introduction:
 
 From the challange hosted at: https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
 

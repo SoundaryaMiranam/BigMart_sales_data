@@ -32,10 +32,10 @@ Outlet_Type : Whether the outlet is just a grocery store or some sort of superma
 
 Item_Outlet_Sales : Sales of the product in the particulat store.
 
-Purpose:
+# Purpose:
 The aim is to build a predictive model and find out the sales of each product at a particular store.This is a supervised machine learning problem with target variable(Item_Outlet_Sales).
 
-Exploratory Data Analysis:
+# Exploratory Data Analysis:
 
 Data cleaning:
 
@@ -100,10 +100,10 @@ Data Pre-processing:
 
 4. Feature Scaling.
 
-Machine learning:
+# Machine learning:
 
 This is a supervised regression problem, as the target variable is numerical. Here logistic, Ridge, Lasso Regression which gives 56.41 % accuracy, Random Forest Regression which gives 56.63 % accuracy, Decision Tree Regression which gives 20.04 % accuracy.
 So this doesn't predict sales on the test dataset.
 
-Future Improvements:
+# Future Improvements:
 Hyper-parameter Tuning and Gradient Boosting.
